@@ -1,1 +1,1 @@
-# Java-learn
+# Stock predictor with Java
